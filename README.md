@@ -17,7 +17,6 @@ currently living in Istanbul, but moving a lot.
 
 # me in other parts of internet
 
-[![Telegram](https://img.shields.io/badge/-Telegram-020202?style=for-the-badge&logo=Telegram)](https://t.me/dangambler)
 [![Discord](https://img.shields.io/badge/-Discord-020202?style=for-the-badge&logo=Discord)](https://discordapp.com/users/344140328254570498)
 [![Twitter](https://img.shields.io/badge/-Twitter-020202?style=for-the-badge&logo=Twitter)](https://twitter.com/flyjeray)
 [![Youtube](https://img.shields.io/badge/-Youtube-020202?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@flyjeray)
